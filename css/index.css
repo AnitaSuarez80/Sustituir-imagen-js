@@ -1,0 +1,60 @@
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+li{
+    width: 20%;
+    list-style: none;
+    
+}
+ img{
+    width: 100%;
+}
+
+#cuadro1{
+    width: 20%;
+    height: 220px;
+    background-color: rgb(46, 136, 189);
+    float: left;
+    margin: 3em 0;
+}
+#cuadro2{
+    width: 20%;
+    height: 220px;
+    background-color: rgb(26, 189, 39);
+    float: left;
+    margin: 3em 0;
+
+
+}
+#cuadro3{
+    width: 20%;
+    height: 220px;
+    background-color: rgb(224, 101, 169);
+    float: left;
+    margin: 3em 0;
+
+
+}
+#cuadro4{
+    width: 20%;
+    height: 220px;
+    background-color: rgb(214, 178, 58);
+    float: left;
+    margin: 3em 0;
+
+
+}
+#cuadro5{
+    width: 20%;
+    height: 220px;
+    background-color: rgb(203, 216, 29);
+    float: left;
+    margin: 3em 0;
+
+
+}
