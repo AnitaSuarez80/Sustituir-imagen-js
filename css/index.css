@@ -1,4 +1,11 @@
+*{
+    overflow: hidden;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
+h1{
+    text-align: center;
+}
 ul{
     display: flex;
     flex-wrap: wrap;
@@ -13,6 +20,7 @@ li{
 }
  img{
     width: 100%;
+    cursor: pointer;
 }
 
 #cuadro1{
@@ -21,6 +29,7 @@ li{
     background-color: rgb(46, 136, 189);
     float: left;
     margin: 3em 0;
+    cursor: pointer;
 }
 #cuadro2{
     width: 20%;
@@ -28,8 +37,7 @@ li{
     background-color: rgb(26, 189, 39);
     float: left;
     margin: 3em 0;
-
-
+    cursor: pointer;
 }
 #cuadro3{
     width: 20%;
@@ -37,8 +45,7 @@ li{
     background-color: rgb(224, 101, 169);
     float: left;
     margin: 3em 0;
-
-
+    cursor: pointer;
 }
 #cuadro4{
     width: 20%;
@@ -47,7 +54,6 @@ li{
     float: left;
     margin: 3em 0;
 
-
 }
 #cuadro5{
     width: 20%;
@@ -55,6 +61,5 @@ li{
     background-color: rgb(203, 216, 29);
     float: left;
     margin: 3em 0;
-
-
+    cursor: pointer;
 }

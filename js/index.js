@@ -1,27 +1,3 @@
-/*
-console.log("Hola mundo de JS")
-
-console.log(document)
-
-
-console.log(document.getElementByTagName('p'))//identifica elementos con la etiqueta p
-console.log(document.getElementsByClassName('clase'))//respecto a clases
-console.log(document.getElementsByName('titulo'))//se usa en formularios
-console.log(documet.getElementaryById('primero'))//sigular por id
-
-console.log(document.querySelectorAll('p'))
-console.log(document.querySelector('p'))
-console.log(document.querySelectorAll('.clase'))
-console.log(document.querySelector('.clase'))
-console.log(document.querySelector('#primero'))
-
-console.log(document.querySelectorAll('p').length)//elementos que existen en la etiqueta p
-console.log(document.querySelectorAll('p'))
-
-var variable = 2
-
-console.log(document.querySelectorAll('li').length)
-*/
 var nombre;
 
 var foto = document.querySelectorAll(".foto")
